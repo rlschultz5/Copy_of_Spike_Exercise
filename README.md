@@ -1,4 +1,4 @@
-# Copy_of_Spike_Exercise
+# Spike-exercise-506
 
 Our MadRentals is a IOS application developed using the MERN stack. Evidently, this repo is divided into two different sub-repos: 'backend' and 'mobile'.
 
